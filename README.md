@@ -14,9 +14,9 @@ Experience in data visualization to suport business and get insights. Applicatio
 * [Medium](https://www.medium.com)
 * [YouTube](https://www.youtube.com)
 
-## Projetos compartilhados:
+## Projects:
 
-* **Projects:** https:
+* **Airbnb demmand:** https:
 
 
 ---
